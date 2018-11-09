@@ -1,5 +1,4 @@
-# <a href="https://irikida.moe/index.html">いりも岬</a>
-## コンテンツ
+## <a href="https://irikida.moe/index.html">いりも岬</a> - コンテンツ
 
 趣味で作ったサイト(サービス)です。<br>
 非営利なので、好きなようにやっています。
