@@ -2,32 +2,33 @@
 
 ## できる
 
-* PHP 一番書ける
- * 実務経験: CakePHP, fuelPHP
- * 趣味: CodeIgniter, imagemagick, GD
- * REST API OK
-* DataBase
- * 実務経験: MySQL, Oracle, MongoDB, DynamoDB
- * KVS きらいですが仕事ならやります
-* Python2/3
- * 実務経験: AWS lambda
- * 趣味: opencv-python, TensorFlow
-* Ruby
- * 実務経験
-* JavaScript
- * 実務経験: Backbone.js
- * ライブラリなしで生 JS が書ける
-* JAVA
- * 実務経験 大規模データの資産管理システム
+### PHP
+* 一番書ける
+* 実務経験: CakePHP, fuelPHP
+* 趣味: CodeIgniter, imagemagick, GD
+* REST API OK
+### DataBase
+* 実務経験: MySQL, Oracle, MongoDB, DynamoDB
+* KVS きらいですが仕事ならやります
+### Python2/3
+* 実務経験: AWS lambda
+* 趣味: opencv-python, TensorFlow
+### Ruby
+* 実務経験
+### JavaScript
+* 実務経験: Backbone.js
+* ライブラリなしで生 JS が書ける
+### JAVA
+* 実務経験 大規模データの資産管理システム
+### C/C++/Objective-C
 * 趣味でちょっと書いたことがある
- * C/C++/Objective-C
 
 ## すき
 
-* 画像処理
- * OpenCV python, C++ でビット演算
-* HTML, 生のCSS
- * 簡単な業務ツール程度なら一人でWeb view の作成ができる
+### 画像処理
+* OpenCV python, C++ でビット演算
+### HTML, 生のCSS
+* 簡単な業務ツール程度なら一人でWeb view の作成ができる
 
 ## 資格
 
