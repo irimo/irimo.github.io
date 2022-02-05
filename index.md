@@ -14,7 +14,8 @@
 * 実務経験: AWS lambda
 * 趣味: opencv-python, TensorFlow
 ### Ruby
-* 実務経験
+* 実務経験: Padrino
+* 趣味: ROR
 ### JavaScript
 * 実務経験: Backbone.js
 * ライブラリなしで生 JS が書ける
